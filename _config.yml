@@ -1,0 +1,11 @@
+# basic options, i can say what ever here
+title: New-awesome-blog
+author: Smart Guy
+email: your-email@domain.com
+description: A lovely wonderful blog
+twitter_username: potus
+github_username:  doloresanalysis
+
+# Build settings
+markdown: kramdown
+theme: minima
